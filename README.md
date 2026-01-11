@@ -73,3 +73,4 @@ socks5://username:password@ip:port
 2. Test against actual target sites to check for blocks
 3. Lower latency generally means better performance
 4. If "Blocked" shows YES, the proxy works but the site is rejecting it
+
